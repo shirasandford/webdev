@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-  <meta charset="UTF-8">
-    <title>Colors</title>
-    <meta description="Color because yes">
-  </head>
-  <body>
-
-  <p>
-    font-weight: bold;
-    color: red
-  </p>
-
- </body>
-</html>
+p {
+  font-weight: bold;
+    color: red;
+}
