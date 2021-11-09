@@ -1,0 +1,19 @@
+body{
+		        background-color: AliceBlue;
+          }
+
+img {
+               height: 100px;
+           
+               width: 50px;
+           }
+
+p {
+                color: Silver;
+                font-size: 100px;
+            }
+
+li {
+                color: White;
+                font-family: Brush Script MT;
+            }
