@@ -17,6 +17,10 @@
   	.cat{
     		color: #00bfff;
    		}
+	#additional{
+		color: #e0ffff;
+}
+
    
 	  </style>
   </head>
@@ -26,7 +30,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Carter_Dome_seen_from_Mt_Hight.JPG/408px-Carter_Dome_seen_from_Mt_Hight.JPG" height="600" width="800" alt="A picture of Carter Dome">
 
-<p>See <a id="statistics" href="#stats">statistics</a> or find <a href="#additional">additional reading</a> on Carter Dome.</p>
+<p>See <a id="statistics" href=>statistics</a> or find <a id="additional" href=>additional reading</a> on Carter Dome.</p>
 
 <p>Carter Dome, or simply The Dome, is a mountain located in Coos County, New Hampshire. The mountain is part of the Carter-Moriah Range of the White Mountains, which runs along the northern east side of Pinkham Notch. Carter Dome is flanked to the northeast by Mount Hight and to the southwest by Wildcat Mountain (across Carter Notch).</p>
 
